@@ -27,6 +27,7 @@
 ## **:memo:Github Stats:**
 ![Dev's github stats](https://github-readme-stats.vercel.app/api?username=DevMehta-30&count_private=true&show_icons=true&theme=radical&hide_rank=false)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevMehta-30&layout=compact&theme=dark&hide_progress=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=DevMehta-30&theme=highcontrast)](https://git.io/streak-stats)
 
 <!--## **:memo:LeetCode Stats:**
 [![Leetcode Stats](https://leetcard.jacoblin.cool/DevMehta-30)](https://leetcode.com/DevMehta-30)-->
