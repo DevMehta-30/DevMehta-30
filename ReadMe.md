@@ -1,7 +1,7 @@
 # **:smile: About Me:**
 :point_right: Trying to do development :)
 <br>
-:point_right: [My Resume :)](https://drive.google.com/file/d/1OZBDgS8_-u-5EZ3MymvTcr3dC0VRoTFc/view?usp=sharing)
+📄 [**My Resume :)**](https://drive.google.com/file/d/1OZBDgS8_-u-5EZ3MymvTcr3dC0VRoTFc/view?usp=sharing)
 
 ## **:globe_with_meridians: Socials:**
 [![image](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/DevMehta-30)
