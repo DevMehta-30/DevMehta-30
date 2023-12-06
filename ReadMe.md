@@ -3,11 +3,11 @@
 <br>
 📄 [**My Resume :)**](https://drive.google.com/file/d/1OZBDgS8_-u-5EZ3MymvTcr3dC0VRoTFc/view?usp=sharing)
 
-## **:globe_with_meridians: Socials:**
+## **🌐 Socials:**
 [![image](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/DevMehta-30)
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-mehta-86687b1b0/)
 
-## **:nerd_face:Tech Stack:**
+## **🤓 Tech Stack:**
 ![image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -33,7 +33,7 @@
 ![image](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![image](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
-## **:memo:Github Stats:**
+## **📝 Github Stats:**
 ![Dev's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=DevMehta-30&count_private=true&show_icons=true&theme=radical&hide_rank=false)
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DevMehta-30&layout=compact&theme=dark&hide_progress=true)
 [![GitHub Streak](https://streak-stats.demolab.com?user=DevMehta-30&theme=highcontrast)](https://git.io/streak-stats)
