@@ -1,4 +1,4 @@
-# **:smile: About Me:**
+# ** 😊 About Me:**
 :point_right: Trying to do development :)
 <br>
 📄 [**My Resume :)**](https://drive.google.com/file/d/1OZBDgS8_-u-5EZ3MymvTcr3dC0VRoTFc/view?usp=sharing)
